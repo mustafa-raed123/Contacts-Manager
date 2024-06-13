@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contacts-Manager", "Contacts-Manager.csproj", "{6424CB9A-9E29-4DB0-B17A-A965BE5EFFF1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contacts-Manager", "Contacts-Manager.csproj", "{6424CB9A-9E29-4DB0-B17A-A965BE5EFFF1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactManagerTest", "..\ContactManagerTest\ContactManagerTest.csproj", "{0807F9FA-AE80-4FDE-82E5-6DB60B886579}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstactsManagerTest", "..\ConstactsManagerTest\ConstactsManagerTest.csproj", "{B6D1A1EF-1590-432F-BEFE-0ED3150F7565}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{0807F9FA-AE80-4FDE-82E5-6DB60B886579}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0807F9FA-AE80-4FDE-82E5-6DB60B886579}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0807F9FA-AE80-4FDE-82E5-6DB60B886579}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6D1A1EF-1590-432F-BEFE-0ED3150F7565}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6D1A1EF-1590-432F-BEFE-0ED3150F7565}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6D1A1EF-1590-432F-BEFE-0ED3150F7565}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6D1A1EF-1590-432F-BEFE-0ED3150F7565}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
